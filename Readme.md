@@ -1,6 +1,6 @@
 # Shell clock in C
 
-## Realtime clock in shell formatted as _"%H:%M:%S"_
+## Realtime shell clock formatted as _"%H:%M:%S"_
 
 ### Libraries used
 
@@ -12,7 +12,7 @@
 
 ### Using
 
-```sh
+```shell
 git clone https://github.com/EnchantedNight/Clock.git
 cd Clock && make
 make run
